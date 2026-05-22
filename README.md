@@ -1,4 +1,4 @@
-# USpeedo Email Plugin
+# USpeedo Email Plugins
 
 USpeedo Email Plugin is a Dify plugin that enables developers to send emails through the USpeedo Email service directly inside workflows.
 
